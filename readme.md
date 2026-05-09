@@ -7,15 +7,7 @@
 <h3>👨‍💻 Sobre mim</h3>
 <p>
 💻 <b>Data Engineer em formação</b><br>
-📊 +10 anos atuando com dados<br>
 🎯 Foco em <b>engenharia de dados</b>, <b>automação</b>, <b>pipelines ETL/ELT</b>, <b>qualidade e governança de dados</b>
-</p>
-
-<h3>📌 Experiência</h3>
-<p>
-Projetos de dados nos contextos:<br>
-• Logística e planejamento no transporte público<br>
-• Pricing no varejo bancário
 </p>
 
 </div>
