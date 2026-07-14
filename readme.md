@@ -7,7 +7,6 @@
 <h3>👨‍💻 Sobre mim</h3>
 <p>
 💻 <b>Data Engineer em formação</b><br>
-🎯 Foco em <b>engenharia de dados</b>, <b>automação</b>, <b>pipelines ETL/ELT</b>, <b>qualidade e governança de dados</b>
 </p>
 
 </div>
