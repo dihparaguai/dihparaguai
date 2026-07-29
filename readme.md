@@ -6,7 +6,7 @@
 
 <h3>👨‍💻 Sobre mim</h3>
 <p>
-💻 <b>Data Engineero</b><br>
+💻 <b>Data Engineer</b><br>
 </p>
 
 </div>
