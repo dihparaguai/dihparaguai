@@ -6,7 +6,7 @@
 
 <h3>👨‍💻 Sobre mim</h3>
 <p>
-💻 <b>Data Engineer em formação</b><br>
+💻 <b>Data Engineero</b><br>
 </p>
 
 </div>
@@ -79,7 +79,7 @@
   <a href="mailto:diego.paraguai.dp@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://web.whatsapp.com/send/?phone=5511970588672&text&type=phone_number&app_absent=0" target="_blank">
+  <a href="wa.me/5511970588672" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
